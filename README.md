@@ -1,5 +1,5 @@
 # Tasnim
 
 - :slightly_smiling_face: I love programming; mostly in Python
-- An ameture photographer  
-- Love travelling and watching movie
+- :camera_flash: An ameture photographer  
+- :beach_umbrella: Love travelling and watching movie
